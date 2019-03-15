@@ -3,4 +3,4 @@ A simple text editor that can delete lines, delete characters, add lines, update
 
 
 Notes
-  Some features are still in progress.
+1-Some features are still in progress.
